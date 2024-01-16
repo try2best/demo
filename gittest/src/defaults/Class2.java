@@ -7,6 +7,7 @@ public class Class2 {
 		System.out.println("vijay");
 		
 		System.out.println("v 1.0");
+		System.out.println("w 1.0");
 
 	}
 
